@@ -2,7 +2,7 @@ from setuptools import setup,find_packages
 from typing import List
 
 #Declaring variables for setup functions
-PROJECT_NAME="Insurance-Premium-Prediction"
+PROJECT_NAME="Health-Insurance"
 VERSION="0.0.1"
 AUTHOR="Athira M Chandran"
 DESRCIPTION="The goal of this project is to give people an estimate of how much they need based on their individual health situation."
